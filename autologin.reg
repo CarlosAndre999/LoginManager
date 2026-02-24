@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"DefaultUserName"="Administrador"
+"DefaultDomainName"="teste"
+"DefaultPassword"="sig@2020"
+"AutoAdminLogon"="1"
+"ForceAutoLogon"="0"
+"ShowLogonOptions"=dword:00000000
